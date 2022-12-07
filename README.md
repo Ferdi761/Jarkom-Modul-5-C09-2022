@@ -160,6 +160,8 @@ auto eth0
 iface eth0 inet dhcp
 ```
 
+## Nomor 1
+
 ## Routing dan Kofigurasi DNS Server, Web Server, DHCP Server dan Relay <a name = "routing"></a>
 
 - ### [ Strix ]
